@@ -1,0 +1,1 @@
+A Full-stack PHP, JavaScript, and MySQL web application to manage university records with AJAX-based editing and reporting.
