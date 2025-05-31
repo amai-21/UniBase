@@ -10,7 +10,6 @@
 - JavaScript
 - PHP
 - MySQL
-- AJAX
 
 # Features
 - CRUD operations on academic data.
